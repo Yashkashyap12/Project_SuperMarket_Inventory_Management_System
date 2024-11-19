@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|e:\\yash\u0027s drive folder\\project final semester\\supermarket_management_system\\supermarket_management_system\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YASH\\AppData\\Local\\Temp\\a649347b-e536-4fc9-a2ea-465ef039a558_InventoryManagementSystem.rar.558\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_49L09RTP_SQLEXPRESS/SuperMarketInventoryDb/True/SqlTable/dbo.tblUser.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\ordermoduleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\ordermoduleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YASH\\AppData\\Local\\Temp\\5ad40f52-7a37-4373-813e-01c7eb0dff4c_InventoryManagementSystem.rar.f4c\\InventoryManagementSystem\\InventoryManagementSystem\\OrderModuleForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YASH\\AppData\\Local\\Temp\\a15298e7-e75f-4518-bd84-e0a4d201dfb0_InventoryManagementSystem.rar.fb0\\InventoryManagementSystem\\InventoryManagementSystem\\OrderModuleForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\ordermoduleform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\ordermoduleform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\supermarket_management_system\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED2A63A-5D69-4B00-A3D5-7CE539166F59}|SuperMarket_Management_System\\SuperMarket_Management_System.csproj|solutionrelative:supermarket_management_system\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderForm.Designer.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\OrderForm.Designer.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderForm.Designer.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\OrderForm.Designer.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAAgwGIBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:58:40.271Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\OrderForm.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderForm.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\OrderForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:01:56.787Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderModuleForm.Designer.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderModuleForm.Designer.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\OrderModuleForm.Designer.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderModuleForm.Designer.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\OrderModuleForm.Designer.cs",
+              "ViewState": "AQIAAE0BAAAAAAAAAAApwE0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:03:44.177Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderModuleForm.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderModuleForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\OrderModuleForm.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderModuleForm.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\OrderModuleForm.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAApwIkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:19:18.301Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\WelcomeForm.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\WelcomeForm.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\WelcomeForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:38:56.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\WelcomeForm.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "SuperMarket_Management_System\\WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:21:37.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\YASH\\AppData\\Local\\Temp\\a649347b-e536-4fc9-a2ea-465ef039a558_InventoryManagementSystem.rar.558\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\YASH\\AppData\\Local\\Temp\\a649347b-e536-4fc9-a2ea-465ef039a558_InventoryManagementSystem.rar.558\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:00:52.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.tblUser.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_49L09RTP_SQLEXPRESS/SuperMarketInventoryDb/True/SqlTable/dbo.tblUser.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_49L09RTP_SQLEXPRESS/SuperMarketInventoryDb/True/SqlTable/dbo.tblUser.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-26T11:57:52.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\Program.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\Program.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:56:04.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\LoginForm.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\LoginForm.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\LoginForm.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwDEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:45:30.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\LoginForm.cs",
+              "ToolTip": "D:\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:45:18.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductForm.Designer.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\ProductForm.Designer.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\ProductForm.Designer.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\ProductForm.Designer.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\ProductForm.Designer.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAlwNcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:55:29.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\ProductForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\ProductForm.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\ProductForm.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\ProductForm.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAIAwwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:54:58.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\CustomerForm.cs",
+              "ToolTip": "D:\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:54:16.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\ProductForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\ProductForm.cs",
+              "ToolTip": "D:\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:52:16.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\YASH\\AppData\\Local\\Temp\\a15298e7-e75f-4518-bd84-e0a4d201dfb0_InventoryManagementSystem.rar.fb0\\InventoryManagementSystem\\InventoryManagementSystem\\OrderModuleForm.cs",
+              "ToolTip": "C:\\Users\\YASH\\AppData\\Local\\Temp\\a15298e7-e75f-4518-bd84-e0a4d201dfb0_InventoryManagementSystem.rar.fb0\\InventoryManagementSystem\\InventoryManagementSystem\\OrderModuleForm.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:56:02.905Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderModuleForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\YASH\\AppData\\Local\\Temp\\5ad40f52-7a37-4373-813e-01c7eb0dff4c_InventoryManagementSystem.rar.f4c\\InventoryManagementSystem\\InventoryManagementSystem\\OrderModuleForm.Designer.cs",
+              "ToolTip": "C:\\Users\\YASH\\AppData\\Local\\Temp\\5ad40f52-7a37-4373-813e-01c7eb0dff4c_InventoryManagementSystem.rar.f4c\\InventoryManagementSystem\\InventoryManagementSystem\\OrderModuleForm.Designer.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:44:53.69Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderModuleForm.resx",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderModuleForm.resx",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\OrderModuleForm.resx",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderModuleForm.resx",
+              "RelativeToolTip": "SuperMarket_Management_System\\OrderModuleForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-26T09:20:52.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductModuleForm.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\ProductModuleForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\ProductModuleForm.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\ProductModuleForm.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\ProductModuleForm.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAiwFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:26:24.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductModuleForm.cs [Design]",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\ProductModuleForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\ProductModuleForm.cs",
+              "ToolTip": "D:\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\ProductModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:26:06.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\MainForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\MainForm.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\MainForm.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\MainForm.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAawDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:59:56.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserForm.Designer.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\UserForm.Designer.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\UserForm.Designer.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\UserForm.Designer.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\UserForm.Designer.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwDkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:54:22.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\UserForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\UserForm.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\UserForm.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\UserForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:29:22.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\UserForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\UserForm.cs",
+              "ToolTip": "D:\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:29:21.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderForm.cs [Design]",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\OrderForm.cs",
+              "ToolTip": "D:\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:19:23.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderModuleForm.cs [Design]",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderModuleForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\OrderModuleForm.cs",
+              "ToolTip": "D:\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\OrderModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:16:37.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserModuleForm.cs",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\UserModuleForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\UserModuleForm.cs",
+              "ToolTip": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\UserModuleForm.cs",
+              "RelativeToolTip": "SuperMarket_Management_System\\UserModuleForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:53:22.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserModuleForm.cs [Design]",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\UserModuleForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\UserModuleForm.cs",
+              "ToolTip": "D:\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\UserModuleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:44:34.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Yash\u0027s Drive Folder\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\MainForm.cs",
+              "RelativeDocumentMoniker": "SuperMarket_Management_System\\MainForm.cs",
+              "ToolTip": "D:\\Project final Semester\\SuperMarket_Management_System\\SuperMarket_Management_System\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:32:04.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
